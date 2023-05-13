@@ -1,0 +1,63 @@
+<html>
+    <title>Practical 2</title>
+    <table border="4">
+        <th>Time Table</th>
+        <tr>
+            <td style="text-align: center;"><h4>Date</h4></td>
+            <td colspan="30"  style="text-align: center;"><h4>Subject</h4></td>
+        </tr>
+        <tr>
+            <td ></td>
+            <td colspan="5"><h4>1st lecture</h4></td>
+            <td colspan="5"><h4>2st lecture</h4></td>
+            <td colspan="5"><h4>3st lecture</h4></td>
+            <td colspan="5"><h4>Break</h4></td>
+            <td colspan="5"><h4>4st lecture</h4></td>
+            <td colspan="5"><h4>5st lecture</h4></td>
+            <td colspan="5"><h4>6st lecture</h4></td>
+        </tr>
+        <tr>
+            <td><h4>Monday</h4><br>24-04-2023
+            </td>
+            <td colspan="5">Modern Physics</td>
+            <td colspan="5">electrical Engineering</td>
+            <td colspan="5">library</td>
+            <td colspan="5">Break</td>
+            <td colspan="5">IC</td>
+            <td colspan="10">W/s (E1-batch)</td>
+        </tr>
+        <tr>
+            <td><h4>Tuesday</h4><br>25-04-2023
+            </td>
+            <td colspan="5">Engineering Mathematics - 2</td>
+            <td colspan="5">Electrical Engineering</td>
+            <td colspan="5">Modern Physics</td>
+            <td colspan="5">Break</td>
+            <td colspan="5">IC</td>
+            <td colspan="10">MPL(E1-batch)</td>
+        </tr>
+
+        <tr>
+            <td><h4>Wednesday</h4><br>26-04-2023
+            </td>
+            <td colspan="10">WLD lab</td>
+            <td colspan="5">Engineering Mathematics - 2</td>
+            <td colspan="5">Break</td>
+            <td colspan="5">electrical Engineering</td>
+            <td colspan="10">Electrical Engineering lab</td>
+        </tr>
+        <tr>
+            <td><h4>Thursday</h4><br>27-04-2023
+            </td>
+            <td colspan="5">Engineering Mathematics - 2</td>
+            <td colspan="5">Electrical Engineering</td>
+            <td colspan="5">Modern Physics</td>
+            <td colspan="5">Break</td>
+            <td colspan="5">IC</td>
+            <td colspan="10">MPL(E1-batch)</td>
+        </tr>
+
+
+
+    </table>
+</html>
